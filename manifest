@@ -1,0 +1,7 @@
+name="importantapp"
+organization="SmartOS"
+brand="Instance"
+version="1.0.0"
+description="This provides a set of development tools and an important application."
+homepage="http://blog.l0cal.net/2014/09/05/building-the-first-simple-mibe-template/"
+users="root admin"

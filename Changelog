@@ -1,0 +1,7 @@
+# Changelog for importantapp
+
+importantapp-1.0.0
+* added package build-essential-1.1
+* added package mosh-1.2.4nb1
+* integrated the important application
+* ensured only root can execute the important application
