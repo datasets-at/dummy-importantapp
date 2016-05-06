@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-echo "I'm IMPORTANT!"  
+echo "I'm IMPORTANT!"
 echo "WORKING HARD!"
 
 sleep 30
 
 # and finish successful every time.
-exit 0  
+exit 0
